@@ -18,10 +18,19 @@ This workshop will feature LANL speakers from A, B, CCS, and T divisions who are
 
 ## Topics
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
+- Concepts
+    - Natural language modeling, computer vision
+    - Generative deep learning
+    - Active learning, Transfer learning, Meta learning
+    - More traditional machine Learning
+    - Other
+-  Applications
+    - Pandemics. Viruses
+    - Oncology
+    - Neuroscience
+    - Drug design
+    - Precision medicine
+    -  Medical imaging
 
 ## Tentative schedule
 

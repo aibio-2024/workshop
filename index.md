@@ -25,16 +25,6 @@ This workshop will feature LANL speakers from A, B, CCS, and T divisions who are
 
 ## Tentative schedule
 
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-
-
 ### Day 1 (August 26th), Morning Session
 
 | Time           | Speaker            | Title                                            |
@@ -45,6 +35,7 @@ This workshop will feature LANL speakers from A, B, CCS, and T divisions who are
 | 10.00 - 10.30  | Talk 1 and Q&A     | The title of the talk                            |
 | 10.30 - 11.00  | Talk 1 and Q&A     | The title of the talk                            |
 | 11.00 - 11.30  | Discussion Session | The title of the talk                            |
+
 * * *
 
 ### Day 1 (August 26th), Afternoon Session
@@ -56,6 +47,7 @@ This workshop will feature LANL speakers from A, B, CCS, and T divisions who are
 | 2.00 - 2.30    | Talk 1 and Q&A     | The title of the talk                            |
 | 2.30 - 3.00    | Talk 1 and Q&A     | The title of the talk                            |
 | 3.00 - 3.30    | Discussion Session | The title of the talk                            |
+
 * * *
 
 

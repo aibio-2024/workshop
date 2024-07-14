@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# AI for Biology
+**Overview**
 
 This workshop will feature LANL speakers from A, B, CCS, and T divisions who are conducting research at the intersection of AI and biology.
 

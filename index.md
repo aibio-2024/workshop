@@ -20,18 +20,17 @@ This workshop will explore Artificial Intelligence and Statistical Learning algo
 ## Topics
 
 - Concepts
-    - Natural language modeling, computer vision
+    - Natural language modeling
+    - Computer vision
     - Generative deep learning
     - Active learning, Transfer learning, Meta learning
-    - More traditional machine Learning
-    - Other
+    - Statistical Learning
 -  Applications
-    - Pandemics. Viruses
+    - Viruses
     - Oncology
-    - Neuroscience
     - Drug design
     - Precision medicine
-    -  Medical imaging
+    - Medical imaging
 
 ## Tentative schedule
 

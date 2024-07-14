@@ -4,7 +4,7 @@ layout: default
 
 **Overview**
 
-This workshop will explore Artificial Intelligence and Statistical Learning algorithms and techniques for biological applications. The objective of this workshop is to bring together LANL scientists from the different divisions to highlight the latest AI-driven biology research efforts and to identify challenges and future directions in applying AI in biological research.
+This workshop will explore Artificial Intelligence and Statistical Learning algorithms and techniques for biological applications. The objective of this workshop is to bring together LANL scientists from the various divisions to highlight the latest AI-driven biology research efforts and to identify challenges and future directions in applying AI in biological research.
 
 
 <!--[Link to another page](./another-page.html).--> 

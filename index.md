@@ -4,7 +4,8 @@ layout: default
 
 **Overview**
 
-This workshop will feature LANL speakers from A, B, CCS, and T divisions who are conducting research at the intersection of AI and biology. 
+This workshop will explore Artificial Intelligence and Statistical Learning algorithms and techniques for biological applications. The objective of this workshop is to bring together LANL scientists from the different divisions to highlight the latest AI-driven biology research efforts and to identify challenges and future directions in applying AI in biological research.
+
 
 <!--[Link to another page](./another-page.html).--> 
 

@@ -57,7 +57,6 @@ This workshop will explore Artificial Intelligence and Statistical Learning algo
 | 1.30 - 2.00    | Bin Hu                    | Learning the language of proteins and predicting the impact of mutations       |
 | 2.00 - 2.30    | Blake Hovde               | NLP trained on biological literature, for protein and plasmid analysis         |
 | 2.30 - 3.00    | Jason Gans                | A cross-validation framework for data clustering by protein sequence similarity|
-
 | 3.00 - 3.30    | Michael Wall              | TBD                                                                            |
 | 3.30 - 4.00    | Discussion Session        |                                                                                |
 

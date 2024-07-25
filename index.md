@@ -23,14 +23,14 @@ This workshop will explore Artificial Intelligence and Statistical Learning algo
     - Natural language modeling
     - Computer vision
     - Generative deep learning
-    - Active learning, Transfer learning, Meta learning
+    - Transfer learning
     - Statistical Learning
 -  Applications
     - Viruses
-    - Oncology
+    - Proteins
+    - Gemomics
     - Drug design
-    - Precision medicine
-    - Medical imaging
+   
 
 ## Tentative schedule
 

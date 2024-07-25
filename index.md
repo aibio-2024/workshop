@@ -15,7 +15,7 @@ This workshop will explore Artificial Intelligence and Statistical Learning algo
 
 **Sponsor**: Center for Nonlinear Studies (CNLS) 
 
-**Email**: Please email \href{ai-bio@lanl.gov}{ai-bio@lanl.gov} to get a Microsoft Teams weblink
+**Email**: Please email [ai-bio@lanl.gov](ai-bio@lanl.gov) to get a Microsoft Teams weblink
 
 ## Topics
 

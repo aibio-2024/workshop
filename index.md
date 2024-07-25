@@ -51,7 +51,7 @@ This workshop will explore Artificial Intelligence and Statistical Learning algo
 
 | Time           | Speaker                   | Title                                                                        |
 |:---------------|:--------------------------|:-----------------------------------------------------------------------------|
-| 1.00 - 1.30    | Gnanakaran Sanrasegaram   | Prediction of virus-host protein-protein interactions                        |
+| 1.00 - 1.30    | Sandrasegaram Gnanakaran  | Prediction of virus-host protein-protein interactions                        |
 | 1.30 - 2.00    | Bin Hu                    | Learning the language of proteins and predicting the impact of mutations     |
 | 2.00 - 2.30    | Blake Hovde               | NLP trained on biological literature, for protein and plasmid analysis       |
 | 2.30 - 3.00    | Jason Gans                | BioRAD                                                                       |
@@ -64,7 +64,7 @@ This workshop will explore Artificial Intelligence and Statistical Learning algo
 ### Day 2 (August 27th), Morning Session
 
 | Time           | Speaker            | Title                                                                               |
-|:---------------|:-------------------|:-------------------------------------------------|
+|:---------------|:-------------------|:------------------------------------------------------------------------------------|
 | 9.00 - 9.30    | Manish Bhattarai   | DNA Breathing Integration with Deep learning Foundational Model Advances            |
 | 9.30 - 10.00   | Juston Moore       | Local Latent Space Bayesian Optimization for Drug Discovery                         |
 | 10.00 - 10.30  | Shounak Banerjee   | TBD                                                                                 |

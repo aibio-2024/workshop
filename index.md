@@ -22,6 +22,7 @@ This workshop will explore Artificial Intelligence and Statistical Learning algo
 - Concepts
     - Natural language modeling
     - Generative deep learning
+    - Computer vision
     - Transfer learning
     - Statistical Learning
     - Molecular dynamics

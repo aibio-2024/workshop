@@ -43,7 +43,7 @@ This workshop will explore Artificial Intelligence and Statistical Learning algo
 | 8.50 - 9.00    | Intro              |                                                  |
 | 9.00 - 9.30    | Nick Generous      | TBD (policy)                                     |
 | 9.30 - 10.00   | Erick LeBrun       | Partnership with OpenAI about biosecurity        |
-| 10.00 - 10.30  | Nick Hengartner    | TBD                                              |
+| 10.00 - 10.30  | Morgan Gorris      | TBD                                              |
 | 10.30 - 11.00  | Lauren VanDervort  | TBD (issues related to data quality)             |
 | 11.00 - 11.30  | Discussion Session |                                                  |
 

@@ -69,7 +69,7 @@ This workshop will explore Artificial Intelligence and Statistical Learning algo
 |:---------------|:-------------------|:------------------------------------------------------------------------------------|
 | 9.00 - 9.30    | Manish Bhattarai   | DNA Breathing Integration with Deep learning Foundational Model Advances            |
 | 9.30 - 10.00   | Juston Moore       | Local Latent Space Bayesian Optimization for Drug Discovery                         |
-| 10.00 - 10.30  | Shounak Banerjee   | TBD                                                                                 |
+| 10.00 - 10.30  | Shounak Banerjee   | Learning Growth Curves: Algae Crops vs Harmful Algae Blooms                                                                                 |
 | 10.30 - 11.00  | Sayera Dhaubhadel  | Suicide veteran predictions using transfer learning                                 |
 | 11.00 - 11.30  | Discussion Session |                                                                                     |
 

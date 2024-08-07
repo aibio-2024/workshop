@@ -30,7 +30,7 @@ This workshop will explore Artificial Intelligence and Statistical Learning algo
 -  Applications
     - Viruses
     - Proteins
-    - Gemomics
+    - Genomics
     - Drug design
    
 

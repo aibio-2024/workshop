@@ -6,6 +6,7 @@ layout: default
 
 This workshop will explore Artificial Intelligence and Statistical Learning algorithms and techniques for biological applications. The objective of this workshop is to bring together LANL scientists from the various divisions to present the latest AI-driven biology LANL research efforts and to identify challenges and future directions in applying AI in biological research.
 
+This is an open in-person workshop; no sign-up is required. We will also send the weblink to those who wish to connect remotely closer to the workshop date.
 
 <!--[Link to another page](./another-page.html).--> 
 
@@ -15,7 +16,7 @@ This workshop will explore Artificial Intelligence and Statistical Learning algo
 
 **Sponsor**: Center for Nonlinear Studies (CNLS) 
 
-**Email**: Please email ai-bio@lanl.gov to get a Microsoft Teams weblink
+**Email**: Email ai-bio@lanl.gov to get a Microsoft Teams weblink (different for each day) if you wish to connect remotely.
 
 ## Topics
 
@@ -57,7 +58,7 @@ This workshop will explore Artificial Intelligence and Statistical Learning algo
 | 1.30 - 2.00    | Bin Hu                    | Learning the language of proteins and predicting the impact of mutations       |
 | 2.00 - 2.30    | Blake Hovde               | NLP trained on biological literature, for protein and plasmid analysis         |
 | 2.30 - 3.00    | Jason Gans                | A cross-validation framework for data clustering by protein sequence similarity|
-| 3.00 - 3.30    | Michael Wall              | TBD                                                                            |
+| 3.00 - 3.30    | Michael Wall              | Some Novel Applications for Molecular-Dynamics Simulations of Biomolecules     |
 | 3.30 - 4.00    | Discussion Session        |                                                                                |
 
 * * *

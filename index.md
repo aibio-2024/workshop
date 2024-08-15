@@ -43,10 +43,11 @@ This is an open in-person workshop; no sign-up is required. We will also send th
 |:---------------|:-------------------|:-------------------------------------------------|
 | 8.50 - 9.00    | Intro              |                                                  |
 | 9.00 - 9.30    | Nick Generous      | TBD (policy)                                     |
-| 9.30 - 10.00   | Erick LeBrun       | Partnership with OpenAI about biosecurity        |
+| 9.30 - 10.00   | Carrie Manore      | TBD                                              |
 | 10.00 - 10.30  | Morgan Gorris      | TBD                                              |
 | 10.30 - 11.00  | Lauren VanDervort  | TBD (issues related to data quality)             |
-| 11.00 - 11.30  | Discussion Session |                                                  |
+| 11.00 - 11.15  | Beth Stelle        | AI and Human Subjects Research                   |
+| 11.15 - 11.45  | Discussion Session |                                                  |
 
 * * *
 

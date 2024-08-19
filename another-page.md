@@ -71,28 +71,20 @@ https://github.com/lanl/EPBD-BERT
 
 ### Juston Moore       
 
-Bayesian optimization over the latent spaces of deep autoencoder models (DAEs)
-has recently emerged as a promising new approach for optimizing challenging
-black-box functions over structured, discrete, hard-to-enumerate search spaces
-(e.g., molecules). Here the DAE dramatically simplifies the search space by map-
-ping inputs into a continuous latent space where familiar Bayesian optimization
-tools can be more readily applied. Despite this simplification, the latent space
-typically remains high-dimensional. Thus, even with a well-suited latent space,
-these approaches do not necessarily provide a complete solution, but may rather
-shift the structured optimization problem to a high-dimensional one. In this paper,
-we propose LOL-BO, which adapts the notion of trust regions explored in recent
-work on high-dimensional Bayesian optimization to the structured setting. By refor-
-mulating the encoder to function as both an encoder for the DAE globally and as a
-deep kernel for the surrogate model within a trust region, we better align the notion
-of local optimization in the latent space with local optimization in the input space.
-LOL-BO achieves as much as 20 times improvement over state-of-the-art latent
-space Bayesian optimization methods across six real-world benchmarks, demon-
-strating that improvement in optimization strategies is as important as developing
-better DAE models.
+Bayesian optimization over the latent spaces of deep autoencoder models (DAEs) has recently emerged as a promising new approach for optimizing challenging black-box functions over structured, discrete, hard-to-enumerate search spaces (e.g., molecules). Here the DAE dramatically simplifies the search space by mapping inputs into a continuous latent space where familiar Bayesian optimization tools can be more readily applied. Despite this simplification, the latent space
+typically remains high-dimensional. Thus, even with a well-suited latent space, these approaches do not necessarily provide a complete solution, but may rather shift the structured optimization problem to a high-dimensional one. In this paper,
+we propose LOL-BO, which adapts the notion of trust regions explored in recent work on high-dimensional Bayesian optimization to the structured setting. By reformulating the encoder to function as both an encoder for the DAE globally and as a deep kernel for the surrogate model within a trust region, we better align the notion of local optimization in the latent space with local optimization in the input space. LOL-BO achieves as much as 20 times improvement over state-of-the-art latent space Bayesian optimization methods across six real-world benchmarks, demonstrating that improvement in optimization strategies is as important as developing better DAE models.
 
-### Shounak Banerjee    Learning Growth Curves: Algae Crops vs Harmful Algae Blooms  
+### Shounak Banerjee    
 
-### Sayera Dhaubhadel   Suicide veteran predictions using transfer learning                                 
+TBD
+
+### Sayera Dhaubhadel   
+
+Transfer learning is an approach in machine learning aimed at improving the performance on a problem of interest with limited data by transferring the knowledge captured by training on different, but related, source domains. Transfer learning is a fundamental concept in the use of foundational models like GPT-4 and LLAMA-3, trained with huge quantities of related data to learn the core concepts, that involves leveraging broad knowledge in such models by fine-tuning the model to answer a more specific problem of interest with limited labeled data. 
+
+AI for healthcare is excit ing with numerous possibilities to improve patient care and precision medicine. Yet, the observational nature of medical data makes it difficult to accurately characterize disease risk and the effect of treatment/mitigations. I will start the presentation introducing transfer learning and how it is applied across different problems. Then I will talk about our recent work on predicting suicide risk amongst 4.2 million active VA patients from their longitudinal medical records spanning over 20 years. I will focus on the major challenges, lessons, and solutions we found in modeling this risk prediction problem. In particular, I will talk about importance of problem formulation and variable definition, handling observational biases and confounding effects, incorporation of prior knowledge, multimodal data, distributional shift and generalizability of the model, and high dimensional prediction with limited examples using transfer learning. Finally, I will discuss how attributes of our he althcare outcomes analysis generalize to other LANL-related AI problems.
+
 
 
 ## Day 2 (August 27th), Afternoon Session

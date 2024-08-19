@@ -109,7 +109,7 @@ TBD
 
 ### Ruian Ke           
 
-TBD
+With dozens or hundreds of minor variants of SARS-CoV-2 circulating in the global population, there is an urgent need for predicting the scale and the rate of the spread of a new variant when it emerged in the population. This would allow for more focused experimental efforts and for timely formulation of new vaccines.  To address this need, we employed a graph theory + machine learning approach to extract features of rapid epidemic growth from pairwise distance matrices derived from genetic sequences of SARS-CoV-2 lineages. Using these features, our model is able to scan a large amount of SARS-CoV-2 genomic data and at the same time make predictions to identify the future-dominating lineage when its frequency was still low (e.g. <5%). Overall, this approach represents a promising new phylogenetic-tree-free method for SARS-CoV-2 lineage monitoring and epidemiological inference.
 
 ### Qianying Lin        
 

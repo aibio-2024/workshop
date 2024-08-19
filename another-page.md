@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Abstracts 
 ---
 
-## Abstracts
+
 
 
 ## Day 1 (August 26th), Morning Session

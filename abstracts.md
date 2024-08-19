@@ -95,7 +95,8 @@ AI for healthcare is exciting with numerous possibilities to improve patient car
 
 ### Sara del Valle      
 
-TBD   
+Social media has become a crucial platform for the global dissemination of information, significantly shaping public perception of events. Much of this online content is conveyed through narratives, which can be analyzed to understand the structure and evolution of various topics. In this talk, I will present a study that explores the temporal evolution of topics within pro- and anti-vaccination discourse, using natural language processing (NLP) and temporal network analysis tools to characterize shifts in public perception over time. 
+   
 
 ### Casey Gibson        
 

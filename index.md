@@ -86,8 +86,8 @@ This is an open in-person workshop; no sign-up is required. We will also send th
 |:---------------|:-------------------|:-------------------------------------------------------------------------------------------------------|
 | 1.00 - 1.30    | Sara del Valle     | Harnessing Large-Scale Unstructured Data to Understand Public Perception                               |
 | 1.30 - 2.00    | Casey Gibson       | TBD                                                                                                    |
-| 2.00 - 2.30    | Yen Ting Lin       | Bayesian inference for SARS-CoV-2 pandemic                                                             |
-| 2.30 - 3.00    | Ruian Ke           | Data science and ML approaches for identifying rapidly expanding SARS-CoV-2 lineages using genetic data|
+| 2.00 - 2.30    | Yen Ting Lin       | Bayesian inference for SARS-CoV-2 pandemic                                                                                    |
+| 2.30 - 3.00    | Ruian Ke           | A  graph theory and machine learning approaches for identifying rapidly expanding SARS-CoV-2 lineages using early genetic data|
 | 3.00 - 3.30    | Qianying Lin       | Model-based Deep Learning Inferential Framework for Genomic Reassortment                               |
 | 3.30 - 4.00    | Discussion Session |                                                                                                        |
 | 4.00 - 4.15    | Closing Remarks    |                                                                                                        |

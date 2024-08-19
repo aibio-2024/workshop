@@ -8,7 +8,7 @@ This workshop will explore Artificial Intelligence and Statistical Learning algo
 
 This is an open in-person workshop; no sign-up is required. We will also send the weblink to those who wish to connect remotely closer to the workshop date.
 
-<!--[Link to another page](./another-page.html).--> 
+
 
 **Dates**: August 26th and August 27th
 
@@ -36,6 +36,8 @@ This is an open in-person workshop; no sign-up is required. We will also send th
    
 
 ## Tentative schedule
+
+[Abstracts are here](./another-page.html).
 
 ### Day 1 (August 26th), Morning Session
 

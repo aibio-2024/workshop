@@ -37,7 +37,7 @@ This is an open in-person workshop; no sign-up is required. We will also send th
 
 ## Tentative schedule
 
-[Abstracts are here](./another-page.html).
+[Abstracts are here](./abstracts.html).
 
 ### Day 1 (August 26th), Morning Session
 

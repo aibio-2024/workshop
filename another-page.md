@@ -105,7 +105,7 @@ TBD
 
 ### Ruian Ke           
 
-Data science and machine learning approaches for identifying rapidly expanding SARS-CoV-2 lineages using genetic data - applying various data science/machine learning tools to analyze CoV-2 genetic sequencing data. 
+TBD
 
 ### Qianying Lin        
 

@@ -11,7 +11,10 @@ title: Abstracts
 
 ### Nick Generous      
 
-TBD
+The convergence of Artificial Intelligence (AI) with laboratory automation presents a dual use dilemma, wherein the same technologies can both significantly benefit scientific research but also pose potential misuse risks, especially for the development of biological threats. Three areas of concern emerge: 1. Frontier models that have the potential to synthesize information leading to the possibility of a “how-to guide” on WMDs; 2. AI-enabled biological design tools, which could potentially design novel biological agents; and 3. the integration of frontier models with biological design tools and autonomous laboratories, compounding the threat by potentially creating an automated AI-powered feedback loop. 
+ 
+These technologies’ disruptive potential can profoundly impact national security. They lower the technical threshold for acquisition/development by proliferators and non-state actors, potentially facilitating the creation of sophisticated threat agents as well as pandemic-potential pathogens. Effective risk evaluation requires understanding not only the capabilities of AI models but also their broader implications in the military and security spheres. This necessitates the development of testbeds, evaluation tools, frameworks, and comprehensive assessment methodologies to enable rigorous and systematic evaluation of the risks associated with these computational and experimental technologies. These capabilities are crucial to inform AI governance efforts. This talk aims to equip the audience with a greater understanding of the risks posed by AI in the context of biological threats, to explore technical challenges, and to assess how these trends will impact the security environment.
+ 
 
 ### Carrie Manore       
 

@@ -47,7 +47,7 @@ This is an open in-person workshop; no sign-up is required. We will also send th
 | 9.00 - 9.30    | Nick Generous      | AI and Biological Risk                                                                                      |
 | 9.30 - 10.00   | Carrie Manore      | Using a hybrid approach of AI and mechanistic models to predict climate change impact on infectious diseases|
 | 10.00 - 10.30  | Morgan Gorris      | TBD                                              |
-| 10.30 - 11.00  | Lauren VanDervort  | TBD (issues related to data quality)             |
+| 10.30 - 11.00  | Lauren VanDervort  | Statistical Bias and Predictive Modeling             |
 | 11.00 - 11.15  | Beth Stelle        | AI and Human Subjects Research                   |
 | 11.15 - 11.45  | Discussion Session |                                                  |
 

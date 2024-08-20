@@ -26,7 +26,8 @@ TBD
 
 ### Lauren VanDervort   
 
-TBD
+In this talk, a LANL statistician shares their experiences and thoughts surrounding statistical bias in several real-world applications, including disease modeling using electronic health records data, risk prediction modeling for cancer patients, and infectious disease forecasting. This talk highlights biases related to data representativeness, measurement error, missing data, extrapolation, and reporting delay.
+ 
 
 ### Beth Stelle        
 

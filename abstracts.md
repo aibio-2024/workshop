@@ -46,7 +46,7 @@ Mutations in proteins directly impact their structure and function. Understandin
 
 ### Blake Hovde                
 
-We are currently investigating the use of biologically trained LLMs for classifying large volumes of DNA sequencing data that has been annotated with protein and gene information, and trying to distill/summarize the information using LLMs for easy human digestion of the information.
+AIMBOTS (Automated Iterative Multi-BLAST for Obscure Target Sequences) is an automated annotation tool for screening complex DNA sequences of unknown function.  Applications include deconvoluting wastewater and soil and human metagenomics data.  We are currently investigating the use of biologically trained LLMs for classifying large volumes of DNA sequencing data that have been annotated with gene and protein names, and attempting to distill/summarize the information using LLMs for easy human user digestion of the biological information.
 
 ### Jason Gans                
 

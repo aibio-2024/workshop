@@ -22,6 +22,7 @@ These technologies’ disruptive potential can profoundly impact national securi
 
 #### Using a hybrid approach of AI and mechanistic models to predict climate change impact on infectious diseases       
 
+
 ### Morgan Gorris       
 
 TBD       
@@ -43,16 +44,24 @@ Some AI-driven biology research may be subject to federal regulations for human 
 
 ### Sandrasegaram Gnanakaran   
 
-TBD
+#### Prediction of virus-host protein-protein interactions
 
-### Bin Hu                     
+
+### Bin Hu
+
+#### Learning the language of proteins and predicting the impact of mutations
+
 Mutations in proteins directly impact their structure and function. Understanding the “language” of proteins, or the sequence to function (genotype-phenotype) relationship has many real-world applications. One set of applications includes those in biodefense, such as biological threat detection and biosurveillance, antibody engineering, and medical countermeasure development. In this study, we present a novel language model-based approach that can rapidly analyze vast collections of sequences, and make near real-time functional predictions that compare favorably to those made using conventional bioinformatic and experimental methods. Our findings reveal that tailored protein language models can predict protein mutation phenotypes, such as binding affinity or level of expression, when they are trained with high-throughput functional data. Protein language models applied to viral genomes can also discern the lineage within a family (e.g., sarbecovirus sequences). Coupled with sequenced-based biosurveillance, this type of model may provide early warning signals of potential zoonotic spillovers (i.e. host jumping) or “escape” from existing medical countermeasures posed by novel mutations. This research not only underscores the potential of ML and language models in addressing pressing challenges in understanding the mapping of sequence to function, but further elucidates their potential application in accelerating the response to biological threats as they evolve.
 
 ### Blake Hovde                
 
+#### NLP trained on biological literature, for protein and plasmid analysis
+
 AIMBOTS (Automated Iterative Multi-BLAST for Obscure Target Sequences) is an automated annotation tool for screening complex DNA sequences of unknown function.  Applications include deconvoluting wastewater and soil and human metagenomics data.  We are currently investigating the use of biologically trained LLMs for classifying large volumes of DNA sequencing data that have been annotated with gene and protein names, and attempting to distill/summarize the information using LLMs for easy human user digestion of the biological information.
 
 ### Jason Gans                
+
+#### A cross-validation framework for data clustering by protein sequence similarity
 
 Accurate computational prediction of protein-protein binding affinities has the potential to significantly decrease the time and cost for designing proteins that can specifically bind to biologically relevant target proteins for detection, diagnostic and therapeutic applications. While recent advances in the field of de novo protein design offer the possibility of using computationally designed proteins as affinity reagents, current protein design methods do not predict the strength of protein-protein binding (e.g., the equilibrium binding constant Kd).
 
@@ -62,7 +71,9 @@ To account for similarity-induced biases in the available datasets of protein-pr
 
 ### Michael Wall              
 
-TBD
+#### Some Novel Applications for Molecular-Dynamics Simulations of Biomolecules
+
+
 
 
 
@@ -70,6 +81,8 @@ TBD
 
 
 ### Manish Bhattarai    
+
+#### DNA Breathing Integration with Deep learning Foundational Model Advances
 
 To ascertain the precise relationship between TF binding and DNA breathing, we developed the multi-modal deep learning model  EPBDxDNABERT-2, which is based on the Extended Peyrard-Bishop-Dauxois (EPBD) nonlinear DNA dynamics model. To train our EPBDxDNABERT-2, we used chromatin immunoprecipitation sequencing (ChIP-Seq) data  comprising 690 ChIP-seq experimental results encompassing 161 distinct TFs and 91 human cell types.  EPBDxDNABERT-2 significantly improves the prediction of over 660 TF-DNA, with an increase in the area under the receiver operating characteristic (AUROC) metric of up to 9.6% when compared to the baseline model that does not leverage DNA biophysical properties. We expanded our analysis to in vitro high-throughput Systematic Evolution of Ligands by Exponential enrichment (HT-SELEX) dataset of 215 TFs from 27 families, comparing EPBD with established frameworks. The integration of the DNA breathing features with DNABERT-2 foundational model, greatly enhanced TF binding predictions. Notably,  {EPBDxDNABERT-2, trained on a large-scale-multi-species genomes, with a cross-attention mechanism, improved predictive power shedding light on the mechanisms underlying disease-related non-coding variants discovered in genome-wide association studies. 
 
@@ -79,15 +92,20 @@ https://github.com/lanl/EPBD-BERT
 
 ### Juston Moore       
 
+#### Local Latent Space Bayesian Optimization for Drug Discovery
+
 Bayesian optimization over the latent spaces of deep autoencoder models (DAEs) has recently emerged as a promising new approach for optimizing challenging black-box functions over structured, discrete, hard-to-enumerate search spaces (e.g., molecules). Here the DAE dramatically simplifies the search space by mapping inputs into a continuous latent space where familiar Bayesian optimization tools can be more readily applied. Despite this simplification, the latent space
 typically remains high-dimensional. Thus, even with a well-suited latent space, these approaches do not necessarily provide a complete solution, but may rather shift the structured optimization problem to a high-dimensional one. In this paper,
 we propose LOL-BO, which adapts the notion of trust regions explored in recent work on high-dimensional Bayesian optimization to the structured setting. By reformulating the encoder to function as both an encoder for the DAE globally and as a deep kernel for the surrogate model within a trust region, we better align the notion of local optimization in the latent space with local optimization in the input space. LOL-BO achieves as much as 20 times improvement over state-of-the-art latent space Bayesian optimization methods across six real-world benchmarks, demonstrating that improvement in optimization strategies is as important as developing better DAE models.
 
 ### Shounak Banerjee    
 
-TBD
+#### Learning Growth Curves: Algae Crops vs Harmful Algae Blooms
+
 
 ### Sayera Dhaubhadel   
+
+#### Suicide veteran predictions using transfer learning
 
 Transfer learning is an approach in machine learning aimed at improving the performance on a problem of interest with limited data by transferring the knowledge captured by training on different, but related, source domains. Transfer learning is a fundamental concept in the use of foundational models like GPT-4 and LLAMA-3, trained with huge quantities of related data to learn the core concepts, that involves leveraging broad knowledge in such models by fine-tuning the model to answer a more specific problem of interest with limited labeled data. 
 
@@ -100,6 +118,8 @@ AI for healthcare is exciting with numerous possibilities to improve patient car
 
 ### Sara del Valle      
 
+#### Harnessing Large-Scale Unstructured Data to Understand Public Perception
+
 Social media has become a crucial platform for the global dissemination of information, significantly shaping public perception of events. Much of this online content is conveyed through narratives, which can be analyzed to understand the structure and evolution of various topics. In this talk, I will present a study that explores the temporal evolution of topics within pro- and anti-vaccination discourse, using natural language processing (NLP) and temporal network analysis tools to characterize shifts in public perception over time. 
    
 
@@ -107,16 +127,23 @@ Social media has become a crucial platform for the global dissemination of infor
 
 TBD
 
+
 ### Yen Ting Lin       
 
-TBD
+#### Bayesian inference for SARS-CoV-2 pandemic
+
+
 
 
 ### Ruian Ke           
 
+#### A graph theory and machine learning approaches for identifying rapidly expanding SARS-CoV-2 lineages using early genetic data
+
 With dozens or hundreds of minor variants of SARS-CoV-2 circulating in the global population, there is an urgent need for predicting the scale and the rate of the spread of a new variant when it emerged in the population. This would allow for more focused experimental efforts and for timely formulation of new vaccines.  To address this need, we employed a graph theory + machine learning approach to extract features of rapid epidemic growth from pairwise distance matrices derived from genetic sequences of SARS-CoV-2 lineages. Using these features, our model is able to scan a large amount of SARS-CoV-2 genomic data and at the same time make predictions to identify the future-dominating lineage when its frequency was still low (e.g. <5%). Overall, this approach represents a promising new phylogenetic-tree-free method for SARS-CoV-2 lineage monitoring and epidemiological inference.
 
 ### Qianying Lin        
+
+#### Model-based Deep Learning Inferential Framework for Genomic Reassortment
 
 Genomic reassortment is a complex procedure that allows viruses with genomic segments exchange genetic materials during co-infected in the same cell after a host is dually infected by distinct viruses, with potential to produce highly contagious new variants.
 With its intrinsic genetic complexity, common phylogenetic and phylodynamic methods are no longer proper to infer the reassortment pattern and biological mechanism.

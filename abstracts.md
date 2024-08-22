@@ -9,7 +9,9 @@ title: Abstracts
 ## Day 1 (August 26th), Morning Session
 
 
-### Nick Generous      
+### Nick Generous    
+
+#### AI and Biological Risk
 
 The convergence of Artificial Intelligence (AI) with laboratory automation presents a dual use dilemma, wherein the same technologies can both significantly benefit scientific research but also pose potential misuse risks, especially for the development of biological threats. Three areas of concern emerge: 1. Frontier models that have the potential to synthesize information leading to the possibility of a “how-to guide” on WMDs; 2. AI-enabled biological design tools, which could potentially design novel biological agents; and 3. the integration of frontier models with biological design tools and autonomous laboratories, compounding the threat by potentially creating an automated AI-powered feedback loop. 
  
@@ -18,7 +20,7 @@ These technologies’ disruptive potential can profoundly impact national securi
 
 ### Carrie Manore       
 
-TBD       
+#### Using a hybrid approach of AI and mechanistic models to predict climate change impact on infectious diseases       
 
 ### Morgan Gorris       
 
@@ -26,11 +28,13 @@ TBD
 
 ### Lauren VanDervort   
 
+#### Statistical Bias and Predictive Modeling
 In this talk, a LANL statistician shares their experiences and thoughts surrounding statistical bias in several real-world applications, including disease modeling using electronic health records data, risk prediction modeling for cancer patients, and infectious disease forecasting. This talk highlights biases related to data representativeness, measurement error, missing data, extrapolation, and reporting delay.
  
 
 ### Beth Stelle        
 
+#### AI and Human Subjects Research
 Some AI-driven biology research may be subject to federal regulations for human subjects research (HSR). We will provide an overview of what constitutes HSR, give examples of LANL HSR, and explain the review process.                   
 
 

@@ -46,7 +46,7 @@ This is an open in-person workshop; no sign-up is required. We will also send th
 | 8.50 - 9.00    | Intro              |                                                                                                             |
 | 9.00 - 9.30    | Nick Generous      | AI and Biological Risk                                                                                      |
 | 9.30 - 10.00   | Carrie Manore      | Using a hybrid approach of AI and mechanistic models to predict climate change impact on infectious diseases|
-| 10.00 - 10.30  | Morgan Gorris      | TBD                                              |
+| 10.00 - 10.30  | Morgan Gorris      | Projecting the geographical distribution of mosquitoes in response to climate change                                              |
 | 10.30 - 11.00  | Lauren VanDervort  | Statistical Bias and Predictive Modeling             |
 | 11.00 - 11.15  | Beth Stelle        | AI and Human Subjects Research                   |
 | 11.15 - 11.45  | Discussion Session |                                                  |
@@ -85,7 +85,7 @@ This is an open in-person workshop; no sign-up is required. We will also send th
 | Time           | Speaker            | Title                                                                                                  |
 |:---------------|:-------------------|:-------------------------------------------------------------------------------------------------------|
 | 1.00 - 1.30    | Sara del Valle     | Harnessing Large-Scale Unstructured Data to Understand Public Perception                               |
-| 1.30 - 2.00    | Casey Gibson       | TBD                                                                                                    |
+| 1.30 - 2.00    | Casey Gibson       | Improving ML based infectious disease forecasting through mechanistic constraints                      |
 | 2.00 - 2.30    | Yen Ting Lin       | Bayesian inference for SARS-CoV-2 pandemic                                                                                    |
 | 2.30 - 3.00    | Ruian Ke           | A  graph theory and machine learning approaches for identifying rapidly expanding SARS-CoV-2 lineages using early genetic data|
 | 3.00 - 3.30    | Qianying Lin       | Model-based Deep Learning Inferential Framework for Genomic Reassortment                               |

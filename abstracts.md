@@ -25,7 +25,10 @@ These technologies’ disruptive potential can profoundly impact national securi
 
 ### Morgan Gorris       
 
-TBD       
+#### Projecting the geographical distribution of mosquitoes in response to climate change
+
+The geographical ranges of mosquitoes, important disease vectors, are sensitive to both climate and land use conditions. Climate change may cause the geographical range of mosquitoes to expand, shift, or contract, ultimately changing what communities are at risk for contracting mosquito-borne diseases. We used a machine learning, ecological niche model and projections of climate and land use to project the geographical ranges of nine important mosquito species across North and South America through year 2100. In short, mosquito borne disease will continue to be a threat to human health. Our study is an example of how machine learning, a subset of AI, can be used in multidisciplinary science.
+       
 
 ### Lauren VanDervort   
 
@@ -125,7 +128,10 @@ Social media has become a crucial platform for the global dissemination of infor
 
 ### Casey Gibson        
 
-TBD
+#### Improving ML based infectious disease forecasting through mechanistic constraints
+
+Outbreak forecasting is the science of predicting future epidemiological outcomes such as case counts or hospital admissions. While forecasting efforts aided public health responses and decision-making during the COVID-19 pandemic, their periodic inaccuracy highlighted that methodological improvements were needed. Here, we developed a model-augmentation methodology that can flexibly incorporate epidemiological dynamics into a broad-class of empirical forecast models (i.e. models that forecast based on historically observed statistical relationships or data). We highlight our methodology through adding peak awareness to three commonly used empirical forecast models including an (1) Autoregressive integrated moving average (ARIMA), (2) Holt-Winters, and (3) Spline model. We find that the peak-aware versions outperform their base counterparts by 9.1% (range: 8.2-12.5%) for COVID-19 hospital admissions from October 12, 2020 to September 11, 2023 and 19.5% (range: 17.6-23.2%) for influenza hospital admissions from January 10, 2022 to May 15, 2023. During epidemiological peaks we see an average forecast performance improvement of 20.7% and 25.4% for COVID-19 and influenza respectively, highlighting how peak awareness improves the forecasts during these critical and historically difficult to forecast time periods. We additionally tested the methodology on the gold standard ensemble models produced by the COVID-19 and Influenza Forecast hubs and found that it improved their performance by 10% and 5% respectively. Our results lay the framework for flexibly incorporating epidemiological dynamics into a wide-range of empirical models and suggest that model augmentation can reliably improve forecasts during key time periods.
+
 
 
 ### Yen Ting Lin       

@@ -105,6 +105,9 @@ we propose LOL-BO, which adapts the notion of trust regions explored in recent w
 
 #### Learning Growth Curves: Algae Crops vs Harmful Algae Blooms
 
+Machine Learning based innovations pervade many aspects of our lives. While great progress has been made in the development of new model architectures, the focus has been to learn from large datasets. Future investments in the public and private sector aim to scale the data and compute even more, with a common goal of learning principles and emergent characteristics from the data. However, the implications of such developments on equity, democratization and the environment need additional consideration.
+In many cases, locally optimal solutions to application needs may be found using less data and simpler models. Such data efficient models can be trained in low resource environments and are likely to be deployable on simple inference hardware. Since detailed and rigorous biological and environmental experimentation is resource and labor intensive, such experimentation can uniquely benefit from what is known as data-efficient machine learning.
+There are two broad classes of approaches to data efficient machine learning. One is to design new model architectures and the second is to alter the problem formulation. We show the utility of the second class of approaches, when applied to the prediction of two apparently disparate but latently similar problems. First a set of algorithms to predict day-over-day growth and learn important growth parameters for algae crops, with digital twinning capability is presented. Then a few data-efficient problem formulations are contrasted with data-hungry counterparts for the prediction of harmful algal bloom dynamics. These problems are disparate in their scientific problem but similar in that a common effort is made to learn algae-specific growth dynamics and parameters affecting growth by formulating data-efficient problems.
 
 ### Sayera Dhaubhadel   
 

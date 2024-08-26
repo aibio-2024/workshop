@@ -48,8 +48,7 @@ This is an open in-person workshop; no sign-up is required. We will also send th
 | 9.30 - 10.00   | Carrie Manore      | Using a hybrid approach of AI and mechanistic models to predict climate change impact on infectious diseases|
 | 10.00 - 10.30  | Morgan Gorris      | Projecting the geographical distribution of mosquitoes in response to climate change                                              |
 | 10.30 - 11.00  | Lauren VanDervort  | Statistical Bias and Predictive Modeling             |
-| 11.00 - 11.15  | Beth Stelle        | AI and Human Subjects Research                   |
-| 11.15 - 11.45  | Discussion Session |                                                  |
+| 11.00 - 11.30  | Discussion Session |                                                  |
 
 * * *
 
